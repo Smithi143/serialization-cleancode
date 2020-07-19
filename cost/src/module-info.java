@@ -1,0 +1,2 @@
+module cost {
+}
